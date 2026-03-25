@@ -1,0 +1,15 @@
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\bin\Debug\net8.0\ProductService.Application.deps.json
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\bin\Debug\net8.0\ProductService.Application.dll
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\bin\Debug\net8.0\ProductService.Application.pdb
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\bin\Debug\net8.0\ProductService.Domain.dll
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\bin\Debug\net8.0\ProductService.Domain.pdb
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.csproj.AssemblyReference.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.AssemblyInfoInputs.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.AssemblyInfo.cs
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.csproj.CoreCompileInputs.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductS.46A6959E.Up2Date
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.dll
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\refint\ProductService.Application.dll
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ProductService.Application.pdb
+D:\ECommerceSystem\services\ProductService\src\ProductService.Application\obj\Debug\net8.0\ref\ProductService.Application.dll
