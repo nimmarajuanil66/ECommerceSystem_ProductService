@@ -37,6 +37,7 @@ namespace ProductService.API.Middleware
 
                     response = new
                     {
+                        success = false,
                         errors = validationException.Errors
                             .Select(e => e.ErrorMessage)
                     };

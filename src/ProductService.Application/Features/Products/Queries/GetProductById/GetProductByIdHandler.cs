@@ -1,14 +1,10 @@
 ﻿using MediatR;
+using ProductService.Application.Common.Models;
 using ProductService.Application.Interfaces.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProductService.Application.Features.Products.Queries.GetProductById
 {
-    public class GetProductByIdHandler:IRequestHandler<GetProductByIdQuery,ProductDto>
+    public class GetProductByIdHandler : IRequestHandler<GetProductByIdQuery, ApiResponse<ProductDto>>
     {
         private readonly IProductRepository _productRepository;
 
@@ -17,19 +13,20 @@ namespace ProductService.Application.Features.Products.Queries.GetProductById
             _productRepository = productRepository;
         }
 
-        public async Task<ProductDto> Handle(GetProductByIdQuery reqest,CancellationToken token)
+        public async Task<ApiResponse<ProductDto>> Handle(GetProductByIdQuery reqest, CancellationToken token)
         {
             var product = await _productRepository.GetByIdAsync(reqest.Id);
             if(product == null)
             {
                 throw new Exception("Product not found");
             }
-            return new ProductDto
+            var dto = new ProductDto
             {
                 Id = product.Id,
                 Name = product.Name,
                 Price = product.Price,
             };
+            return ApiResponse<ProductDto>.SuccessResponse(dto);
         }
     }
 }

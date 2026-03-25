@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using ProductService.Application.Features.Products.Commands.CreateProduct;
 using ProductService.Application.Features.Products.Queries.GetProductById;
+using ProductService.Application.Features.Products.Queries.GetProducts;
 
 namespace ProductService.API.Controllers
 {
@@ -26,6 +27,13 @@ namespace ProductService.API.Controllers
         {
             var result = await _mediator.Send(new GetProductByIdQuery { Id = id });
 
+            return Ok(result);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAll([FromQuery] GetProductsQuery query)
+        {
+            var result = await _mediator.Send(query);
             return Ok(result);
         }
     }

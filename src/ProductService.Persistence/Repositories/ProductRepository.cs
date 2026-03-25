@@ -1,4 +1,5 @@
-﻿using ProductService.Application.Interfaces.Repositories;
+﻿using Microsoft.EntityFrameworkCore;
+using ProductService.Application.Interfaces.Repositories;
 using ProductService.Domain.Entites;
 using ProductService.Persistence.Context;
 using System;
@@ -29,6 +30,19 @@ namespace ProductService.Persistence.Repositories
             return await _appDbContext.Products.FindAsync(id);
 
            
+        }
+        public async Task<(List<Product>, int)> GetPagedAsync(int page, int pageSize)
+        {
+            var query = _appDbContext.Products.AsQueryable();
+
+            var totalCount = await query.CountAsync();
+
+            var items = await query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            return (items, totalCount);
         }
 
     }
