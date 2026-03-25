@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using ProductService.Application.Common.Models;
+using ProductService.Application.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;

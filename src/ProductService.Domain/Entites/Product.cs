@@ -27,5 +27,17 @@ namespace ProductService.Domain.Entites
             Name = name;
             Price = price;
         }
+        public void Update(string name, decimal price)
+        {
+            // Business rules can go here
+            if (string.IsNullOrWhiteSpace(name))
+                throw new Exception("Name cannot be empty");
+
+            if (price <= 0)
+                throw new Exception("Price must be greater than zero");
+
+            Name = name;
+            Price = price;
+        }
     }
 }

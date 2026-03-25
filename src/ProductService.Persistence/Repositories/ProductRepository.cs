@@ -44,6 +44,15 @@ namespace ProductService.Persistence.Repositories
 
             return (items, totalCount);
         }
-
+        public async Task UpdateAsync(Product product)
+        {
+            _appDbContext.Products.Update(product);
+            await _appDbContext.SaveChangesAsync();
+        }
+        public async Task DeleteAsync(Product product)
+        {
+            _appDbContext.Products.Remove(product);
+            await _appDbContext.SaveChangesAsync();
+        }
     }
 }

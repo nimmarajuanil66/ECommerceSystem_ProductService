@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using ProductService.Application.Common.Models;
+using ProductService.Application.DTOs;
 using ProductService.Application.Interfaces.Repositories;
 
 namespace ProductService.Application.Features.Products.Queries.GetProductById

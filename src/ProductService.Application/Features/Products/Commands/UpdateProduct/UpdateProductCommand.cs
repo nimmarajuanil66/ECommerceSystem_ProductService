@@ -1,12 +1,14 @@
-﻿using System;
+﻿using MediatR;
+using ProductService.Application.Common.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProductService.Application.Features.Products.Queries.GetProductById
+namespace ProductService.Application.Features.Products.Commands.UpdateProduct
 {
-    public class ProductDto
+    public class UpdateProductCommand:IRequest<ApiResponse<bool>>
     {
         public Guid Id { get; set; }
         public string Name { get; set; }

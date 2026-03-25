@@ -12,5 +12,7 @@ namespace ProductService.Application.Interfaces.Repositories
         Task AddAsync(Product product);
         Task<Product?> GetByIdAsync(Guid id);
         Task<(List<Product> Items, int TotalCount)> GetPagedAsync(int page, int pageSize);
+        Task UpdateAsync(Product product);
+        Task DeleteAsync(Product product);
     }
 }
