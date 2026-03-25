@@ -142,6 +142,7 @@ D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8
 D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\ProductService.API.csproj.CoreCompileInputs.cache
 D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\ProductService.API.MvcApplicationPartsAssemblyInfo.cs
 D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\ProductService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\ProductService.API.sourcelink.json
 D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\ECommerceSystem\services\ProductService\src\ProductService.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

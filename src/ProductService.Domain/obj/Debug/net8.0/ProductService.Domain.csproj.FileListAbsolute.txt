@@ -5,6 +5,7 @@ D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\n
 D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfoInputs.cache
 D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfo.cs
 D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.sourcelink.json
 D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.dll
 D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\refint\ProductService.Domain.dll
 D:\ECommerceSystem\services\ProductService\src\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.pdb

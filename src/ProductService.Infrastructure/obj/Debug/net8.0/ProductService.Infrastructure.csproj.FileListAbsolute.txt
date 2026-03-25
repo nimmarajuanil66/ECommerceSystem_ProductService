@@ -12,6 +12,7 @@ D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj
 D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.AssemblyInfoInputs.cache
 D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.AssemblyInfo.cs
 D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.sourcelink.json
 D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\ProductS.4D387919.Up2Date
 D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\ProductService.Infrastructure.dll
 D:\ECommerceSystem\services\ProductService\src\ProductService.Infrastructure\obj\Debug\net8.0\refint\ProductService.Infrastructure.dll

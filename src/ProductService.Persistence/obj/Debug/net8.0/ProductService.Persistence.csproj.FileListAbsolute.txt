@@ -11,6 +11,7 @@ D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\De
 D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\ProductService.Persistence.AssemblyInfoInputs.cache
 D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\ProductService.Persistence.AssemblyInfo.cs
 D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\ProductService.Persistence.csproj.CoreCompileInputs.cache
+D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\ProductService.Persistence.sourcelink.json
 D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\ProductS.B9A554F1.Up2Date
 D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\ProductService.Persistence.dll
 D:\ECommerceSystem\services\ProductService\src\ProductService.Persistence\obj\Debug\net8.0\refint\ProductService.Persistence.dll

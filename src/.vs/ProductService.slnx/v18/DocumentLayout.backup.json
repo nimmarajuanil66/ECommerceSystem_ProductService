@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\ECommerceSystem\\services\\ProductService\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84ADF677-AEAE-8279-BE64-66A6F689F95C}|ProductService.Application\\ProductService.Application.csproj|d:\\ecommercesystem\\services\\productservice\\src\\productservice.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84ADF677-AEAE-8279-BE64-66A6F689F95C}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948B931E-367A-A688-41D9-22F99794D491}|ProductService.API\\ProductService.API.csproj|d:\\ecommercesystem\\services\\productservice\\src\\productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948B931E-367A-A688-41D9-22F99794D491}|ProductService.API\\ProductService.API.csproj|solutionrelative:productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84ADF677-AEAE-8279-BE64-66A6F689F95C}|ProductService.Application\\ProductService.Application.csproj|d:\\ecommercesystem\\services\\productservice\\src\\productservice.application\\common\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84ADF677-AEAE-8279-BE64-66A6F689F95C}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\common\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ADF677-AEAE-8279-BE64-66A6F689F95C}|ProductService.Application\\ProductService.Application.csproj|d:\\ecommercesystem\\services\\productservice\\src\\productservice.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ADF677-AEAE-8279-BE64-66A6F689F95C}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,6 +45,27 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ECommerceSystem\\services\\ProductService\\src\\ProductService.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService.API\\Program.cs",
+              "ToolTip": "D:\\ECommerceSystem\\services\\ProductService\\src\\ProductService.API\\Program.cs",
+              "RelativeToolTip": "ProductService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:56:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoggingBehavior.cs",
@@ -55,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "D:\\ECommerceSystem\\services\\ProductService\\src\\ProductService.Application\\Common\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "ProductService.Application\\Common\\Behaviors\\ValidationBehavior.cs",
               "ToolTip": "D:\\ECommerceSystem\\services\\ProductService\\src\\ProductService.Application\\Common\\Behaviors\\ValidationBehavior.cs",
               "RelativeToolTip": "ProductService.Application\\Common\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T09:56:30.92Z",
               "EditorCaption": ""
